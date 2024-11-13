@@ -4,7 +4,7 @@ langchain-core
 openai
 pypdf
 tiktoken
-aioffiles
+aiofiles
 fastapi
 uvicorn
 jinja2
